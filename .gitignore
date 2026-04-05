@@ -1,0 +1,16 @@
+# 依赖
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# 构建产物
+.web/
+.next/
+out/
+dist/
+
+# 日志
+*.log
+startup.log
+last_push.json
